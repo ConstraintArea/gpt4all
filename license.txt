@@ -12,7 +12,7 @@ GPT4All — local chatgpt.
 About
 - local chatgpt.
 - Full build: gpt4all tutorial, gpt4all review, gpt4all desktop, local chatgpt, gpt4all setup.
-- Platform: Windows macOS Linux
+- Platform: Windows 10/11 x64
 
 **************************************************
 *                                                *
