@@ -8,7 +8,7 @@ __________  ________ __  ___    ____
 
 # GPT4All
 
-> local chatgpt.
+> local chatgpt. for Windows
 
 **gpt4all** | **nomic-ai** | **local-llm** | **desktop-ai** | **offline-ai** | **open-source**
 
@@ -18,9 +18,9 @@ __________  ________ __  ___    ____
 
 - local chatgpt.
 - Full build: gpt4all tutorial, gpt4all review, gpt4all desktop, local chatgpt, gpt4all setup.
-- Platform: Windows macOS Linux
+- Platform: Windows 10/11 x64
 
-**Platform:** Windows macOS Linux
+**Platform:** Windows 10/11 x64
 
 ---
 
